@@ -1,0 +1,12 @@
+Package: com.conorthedev.nicecc
+Name: NiceCC
+Depends: mobilesubstrate
+Version: 1.1
+Architecture: iphoneos-arm
+Description: Allows you to customize your Connectivity Icons!
+Maintainer: ConorTheDev
+Author: ConorTheDev
+Section: Tweaks
+SileoDepiction: https://repo.conorthedev.com/SileoDepictions/NiceCC
+Depiction: https://repo.conorthedev.com/package/com.conorthedev.nicecc
+Icon: https://repo.conorthedev.com/img/nicecc.png

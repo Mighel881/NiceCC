@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+	<dict>
+		<key>entry</key>
+		<dict>
+			<key>bundle</key>
+			<string>NiceCCPrefs</string>
+			<key>cell</key>
+			<string>PSLinkCell</string>
+			<key>detail</key>
+			<string>NiceCCPrefsRootListController</string>
+			<key>icon</key>
+			<string>icon.png</string>
+			<key>isController</key>
+			<true/>
+			<key>label</key>
+			<string>NiceCC</string>
+		</dict>
+	</dict>
+</plist>
